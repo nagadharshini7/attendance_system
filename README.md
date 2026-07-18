@@ -2,20 +2,22 @@
 
 Developed and deployed by: Naga Dharshini M
 
-# Tech Stack
-Backend: Java Spring Boot 3.1.0
-Frontend: React
-Database: MariaDB
-Cloud: AWS EC2
+## Tech Stack
+- **Backend:** Java Spring Boot 3.1.0
+- **Frontend:** React.js
+- **Database:** MariaDB
+- **Cloud:** AWS EC2
 
-# Features
-Role-based access (Admin, Teacher, Student)
-Attendance marking and tracking
-Student and teacher management
-Reports and analytics
+## Features
+- Role-based access (Admin, Teacher, Student)
+- Attendance marking and tracking
+- Student and teacher management
+- Attendance reports and analytics
+- Search and filter student records
+- Responsive user interface
 
-# Live App
+## Live App
 http://13.232.222.82:3000
 
-# GitHub
+## GitHub
 https://github.com/nagadharshini7/attendance_system
