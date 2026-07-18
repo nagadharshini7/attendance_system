@@ -1,1 +1,1 @@
-# attendance_system
+# College Attendance Management System
