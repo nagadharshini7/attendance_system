@@ -1,5 +1,3 @@
-@@ -1 +1,21 @@
-# nileshdgaikwad8805-Attendance_Management_Java_Application
 # College Attendance Management System
 
 Developed and deployed by: Naga Dharshini M
