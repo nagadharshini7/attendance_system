@@ -1,0 +1,16 @@
+# Java
+target/
+
+# React
+node_modules/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Environment
+.env
